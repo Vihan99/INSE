@@ -11,9 +11,9 @@ alternative to steam or discord.
  - James - UX & UI
  - Ahmed - Database design
  - Vihan - UX & UI
- - Ricky -Server side 
+ - Ricky - Server side
  - Jose	- Server side
- - Liam - Project bitch
+ - Liam - Tester
 
 # Project road map
  - [x] Project plan proposal
