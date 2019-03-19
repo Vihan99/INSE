@@ -8,17 +8,17 @@ page or search through our game store to find new games to play.
 alternative to steam or discord.
 
 # Our team
- - James - Developer
+ - James - UX & UI
  - Ahmed - Database design
  - Vihan - UX & UI
- - Ricky - Plan meetings Developer
- - Jose	- Developer
- - Liam - Developer
+ - Ricky - Server side
+ - Jose	- Server side
+ - Liam - Tester
 
 # Project road map
  - [x] Project plan proposal
  - [x] Software requirements specification
- - [ ] Design documentation
+ - [x] Design documentation
  - [ ] Prototype (demo and code)
  - [ ] Final submission 
 
